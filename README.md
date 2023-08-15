@@ -1,2 +1,0 @@
-# Minh-Pham
-Some Stuffs
