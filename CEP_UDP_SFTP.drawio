@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-01T06:12:42.007Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="iwFcL4MJr4abZZW86K_4" version="24.4.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-01T06:13:57.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="I9_DPgd0TG5lK_TWFXxX" version="24.4.15" type="github">
   <diagram name="Page-1" id="2yp8IYSSfUjoqlpuzB5U">
     <mxGraphModel dx="1379" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
             <mxPoint x="240" y="357.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="02HVVMSfSJ5NhsnOze_v-3" value="Mapping process" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+        <mxCell id="02HVVMSfSJ5NhsnOze_v-3" value="Mapping" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="80" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="02HVVMSfSJ5NhsnOze_v-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="02HVVMSfSJ5NhsnOze_v-15" target="02HVVMSfSJ5NhsnOze_v-14">
@@ -30,11 +30,17 @@
         <mxCell id="02HVVMSfSJ5NhsnOze_v-10" value="UDP" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02HVVMSfSJ5NhsnOze_v-14" value="Model object" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+        <mxCell id="02HVVMSfSJ5NhsnOze_v-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="02HVVMSfSJ5NhsnOze_v-14" target="02HVVMSfSJ5NhsnOze_v-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02HVVMSfSJ5NhsnOze_v-14" value="Model objects" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="02HVVMSfSJ5NhsnOze_v-15" value="Mapping process" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+        <mxCell id="02HVVMSfSJ5NhsnOze_v-15" value="Transform" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="200" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="02HVVMSfSJ5NhsnOze_v-16" value="Extracting" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
