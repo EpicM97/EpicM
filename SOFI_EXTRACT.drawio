@@ -50,8 +50,25 @@
         <mxCell id="dtMX1TJVlTVmobJGIK8u-12" value=".xlsx files" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="375" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dtMX1TJVlTVmobJGIK8u-14" value="Process" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="dtMX1TJVlTVmobJGIK8u-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dtMX1TJVlTVmobJGIK8u-14" target="dtMX1TJVlTVmobJGIK8u-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dtMX1TJVlTVmobJGIK8u-14" value="Extract" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="600" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dtMX1TJVlTVmobJGIK8u-16" value="Sharepoint" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dtMX1TJVlTVmobJGIK8u-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dtMX1TJVlTVmobJGIK8u-18" target="dtMX1TJVlTVmobJGIK8u-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dtMX1TJVlTVmobJGIK8u-20" value="Access" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dtMX1TJVlTVmobJGIK8u-19">
+          <mxGeometry x="-0.2636" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dtMX1TJVlTVmobJGIK8u-18" value="User" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="600" y="200" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
