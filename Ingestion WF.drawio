@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="INGESTION WORKFLOW" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fillColor=#d5e8d4;fontStyle=1;shadow=0;rounded=0;direction=north;flipV=1;flipH=1;horizontal=0;fontFamily=Montserrat;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;textDirection=vertical-lr;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=12;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeColor=#82b366;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-26" width="2280" height="3351.0000000000014" as="geometry" />
+          <mxGeometry x="40" y="-26" width="2280" height="2826.0000000000014" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-3" value="Requirement" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;swimlaneFillColor=none;strokeColor=#76B274;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;labelBackgroundColor=none;swimlaneLine=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
           <mxGeometry y="40" width="2280" height="759" as="geometry" />
@@ -607,58 +607,58 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Coz3lWri1jGDBBUm2G6h-1" value="PROD" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=#76B274;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;labelBackgroundColor=none;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
-          <mxGeometry y="2460" width="2280" height="701" as="geometry" />
+          <mxGeometry y="2460" width="2280" height="176" as="geometry" />
         </mxCell>
         <mxCell id="Coz3lWri1jGDBBUm2G6h-2" value="Requester&#xa;(Internal &amp; external)" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=#85b268;swimlaneLine=1;labelBackgroundColor=none;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="Coz3lWri1jGDBBUm2G6h-1">
-          <mxGeometry x="40" width="240" height="701" as="geometry">
-            <mxRectangle width="240" height="701" as="alternateBounds" />
+          <mxGeometry x="40" width="240" height="176" as="geometry">
+            <mxRectangle width="240" height="176" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Coz3lWri1jGDBBUm2G6h-3" value="PM" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;flipV=0;swimlaneLine=1;labelBackgroundColor=none;strokeColor=#85b268;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="Coz3lWri1jGDBBUm2G6h-1">
-          <mxGeometry x="280" width="240" height="701" as="geometry">
-            <mxRectangle width="240" height="701" as="alternateBounds" />
+          <mxGeometry x="280" width="240" height="176" as="geometry">
+            <mxRectangle width="240" height="176" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Coz3lWri1jGDBBUm2G6h-81" value="Done major task" style="image;image=img/lib/atlassian/Jira_Logo.svg;html=1;imageBackground=none;imageBorder=none;shadow=1;aspect=fixed;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="Coz3lWri1jGDBBUm2G6h-3">
           <mxGeometry x="155" y="86" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Coz3lWri1jGDBBUm2G6h-4" value="Data Collector" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;swimlaneLine=1;labelBackgroundColor=none;strokeColor=#85b268;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="Coz3lWri1jGDBBUm2G6h-1">
-          <mxGeometry x="520" width="240" height="701" as="geometry">
-            <mxRectangle width="240" height="701" as="alternateBounds" />
+          <mxGeometry x="520" width="240" height="176" as="geometry">
+            <mxRectangle width="240" height="176" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Coz3lWri1jGDBBUm2G6h-6" value="Source Application" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;swimlaneLine=1;labelBackgroundColor=none;strokeColor=#85b268;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="Coz3lWri1jGDBBUm2G6h-1">
-          <mxGeometry x="760" width="240" height="701" as="geometry">
-            <mxRectangle width="240" height="701" as="alternateBounds" />
+          <mxGeometry x="760" width="240" height="176" as="geometry">
+            <mxRectangle width="240" height="176" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Coz3lWri1jGDBBUm2G6h-7" value="TechM" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;swimlaneLine=1;labelBackgroundColor=none;strokeColor=#85b268;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="Coz3lWri1jGDBBUm2G6h-1">
-          <mxGeometry x="1000" width="240" height="701" as="geometry">
-            <mxRectangle width="240" height="701" as="alternateBounds" />
+          <mxGeometry x="1000" width="240" height="176" as="geometry">
+            <mxRectangle width="240" height="176" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Coz3lWri1jGDBBUm2G6h-8" value="Security" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;swimlaneLine=1;labelBackgroundColor=none;strokeColor=#85b268;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="Coz3lWri1jGDBBUm2G6h-1">
-          <mxGeometry x="1240" width="240" height="701" as="geometry">
-            <mxRectangle width="240" height="701" as="alternateBounds" />
+          <mxGeometry x="1240" width="240" height="176" as="geometry">
+            <mxRectangle width="240" height="176" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Coz3lWri1jGDBBUm2G6h-9" value="DE" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;swimlaneLine=1;labelBackgroundColor=none;strokeColor=#85b268;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="Coz3lWri1jGDBBUm2G6h-1">
-          <mxGeometry x="1480" width="240" height="701" as="geometry">
-            <mxRectangle width="240" height="701" as="alternateBounds" />
+          <mxGeometry x="1480" width="240" height="176" as="geometry">
+            <mxRectangle width="240" height="176" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Coz3lWri1jGDBBUm2G6h-27" value="DQ" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;swimlaneLine=1;labelBackgroundColor=none;strokeColor=#85b268;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="Coz3lWri1jGDBBUm2G6h-1">
-          <mxGeometry x="1720" width="240" height="701" as="geometry">
-            <mxRectangle width="240" height="701" as="alternateBounds" />
+          <mxGeometry x="1720" width="240" height="176" as="geometry">
+            <mxRectangle width="240" height="176" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Coz3lWri1jGDBBUm2G6h-32" value="DevOps" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;swimlaneLine=1;labelBackgroundColor=none;strokeColor=#85b268;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="Coz3lWri1jGDBBUm2G6h-1">
-          <mxGeometry x="1960" width="320" height="701" as="geometry">
-            <mxRectangle width="320" height="701" as="alternateBounds" />
+          <mxGeometry x="1960" width="320" height="176" as="geometry">
+            <mxRectangle width="320" height="176" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Coz3lWri1jGDBBUm2G6h-51" value="RELEASED" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=#76B274;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;labelBackgroundColor=none;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
-          <mxGeometry y="3161" width="2280" height="190" as="geometry" />
+          <mxGeometry y="2636" width="2280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Coz3lWri1jGDBBUm2G6h-52" value="Requester&#xa;(Internal &amp; external)" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=#85b268;swimlaneLine=1;labelBackgroundColor=none;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="Coz3lWri1jGDBBUm2G6h-51">
           <mxGeometry x="40" width="240" height="190" as="geometry">
