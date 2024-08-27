@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.7">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="2122" dy="2255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1199" dy="1753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -480,6 +480,9 @@
           <mxGeometry x="1000" width="240" height="692" as="geometry">
             <mxRectangle width="240" height="692" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Coz3lWri1jGDBBUm2G6h-78" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/thin-line-icons-for-seo-and-development-1/64/seo_bug_search-128.png;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=12;fontColor=default;shadow=0;imageBackground=none;" vertex="1" parent="piQ0KBY6VBUV0hJ2Zry9-77">
+          <mxGeometry x="150" y="201" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="cMU86__VcZ0qvdFthibx-174" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;swimlaneLine=0;labelBackgroundColor=none;" parent="cMU86__VcZ0qvdFthibx-118" vertex="1">
           <mxGeometry x="1240" width="240" height="692" as="geometry">
