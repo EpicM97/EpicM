@@ -823,7 +823,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7XahkduGjsbBx1szj2E9-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-2/640/salesforce-512.png;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;imageBackground=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-15" width="40" height="40" as="geometry" />
+          <mxGeometry x="604" y="-234" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
