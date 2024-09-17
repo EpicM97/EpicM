@@ -78,7 +78,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cMU86__VcZ0qvdFthibx-262" value="Gather info" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;rounded=1;fillStyle=auto;strokeColor=#82b366;align=center;verticalAlign=middle;arcSize=50;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=12;fontColor=default;fillColor=#d5e8d4;labelBackgroundColor=none;" parent="3nuBFxr9cyL0pnOWT2aG-11" vertex="1">
-          <mxGeometry x="18" y="166" width="90" height="60" as="geometry" />
+          <mxGeometry x="18" y="171" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cMU86__VcZ0qvdFthibx-493" value="Sharepoint&lt;div&gt;ingestion?&lt;/div&gt;" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=middle;labelBackgroundColor=none;verticalAlign=middle;align=right;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;rounded=1;fillStyle=auto;strokeColor=#82b366;arcSize=50;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=12;fontColor=default;fillColor=#d5e8d4;shadow=0;labelPosition=left;aspect=fixed;" parent="3nuBFxr9cyL0pnOWT2aG-11" vertex="1">
           <mxGeometry x="43" y="265" width="40" height="40" as="geometry" />
@@ -125,7 +125,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7XahkduGjsbBx1szj2E9-77" value="Create&lt;div&gt;folder&lt;/div&gt;" style="shape=image;html=1;verticalAlign=bottom;verticalLabelPosition=top;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-09-128.png;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;labelPosition=center;align=center;" parent="3nuBFxr9cyL0pnOWT2aG-11" vertex="1">
-          <mxGeometry x="144" y="174.5" width="40" height="40" as="geometry" />
+          <mxGeometry x="144" y="181" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7XahkduGjsbBx1szj2E9-76" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Montserrat;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=classic;flowAnimation=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="3nuBFxr9cyL0pnOWT2aG-11" source="7XahkduGjsbBx1szj2E9-77" target="cMU86__VcZ0qvdFthibx-498" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -135,9 +135,6 @@
         </mxCell>
         <mxCell id="cMU86__VcZ0qvdFthibx-498" value="Submit AD" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;isAdHoc=1;isLoopSub=1;rounded=1;fillStyle=auto;strokeColor=#82b366;align=center;verticalAlign=middle;arcSize=50;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=12;fontColor=default;fillColor=#d5e8d4;labelBackgroundColor=none;" parent="3nuBFxr9cyL0pnOWT2aG-11" vertex="1">
           <mxGeometry x="293" y="255" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7XahkduGjsbBx1szj2E9-120" value="Can&amp;nbsp;&lt;div style=&quot;font-size: 12px;&quot;&gt;re-use AD?&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Montserrat;fontSize=12;fontColor=default;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" parent="3nuBFxr9cyL0pnOWT2aG-11" vertex="1">
-          <mxGeometry x="197" y="205" width="84" height="41" as="geometry" />
         </mxCell>
         <mxCell id="7XahkduGjsbBx1szj2E9-142" value="Update ticket" style="image;image=img/lib/atlassian/Jira_Logo.svg;html=1;imageBackground=none;imageBorder=none;shadow=1;aspect=fixed;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;labelBackgroundColor=none;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;container=0;" parent="3nuBFxr9cyL0pnOWT2aG-11" vertex="1">
           <mxGeometry x="318" y="460" width="40" height="40" as="geometry" />
