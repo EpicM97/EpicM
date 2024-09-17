@@ -341,6 +341,12 @@
         <mxCell id="7XahkduGjsbBx1szj2E9-11" value="Bug found" style="shape=image;html=1;verticalAlign=bottom;verticalLabelPosition=top;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/spring-2-1/30/Ladybug-512.png;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" parent="cMU86__VcZ0qvdFthibx-116" vertex="1">
           <mxGeometry x="160" y="611" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="9r6x0f_QtqJC5C18qWs6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="cMU86__VcZ0qvdFthibx-116" source="9r6x0f_QtqJC5C18qWs6-7" target="piQ0KBY6VBUV0hJ2Zry9-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9r6x0f_QtqJC5C18qWs6-7" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=catching;symbol=link;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="cMU86__VcZ0qvdFthibx-116">
+          <mxGeometry x="160" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="cMU86__VcZ0qvdFthibx-117" value="DQ" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;swimlaneLine=1;labelBackgroundColor=none;strokeColor=#85b268;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" parent="cMU86__VcZ0qvdFthibx-105" vertex="1">
           <mxGeometry x="2520" width="400" height="958" as="geometry">
             <mxRectangle width="400" height="958" as="alternateBounds" />
@@ -506,8 +512,14 @@
             <mxRectangle width="400" height="967" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9r6x0f_QtqJC5C18qWs6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="cMU86__VcZ0qvdFthibx-129" source="cMU86__VcZ0qvdFthibx-854" target="9r6x0f_QtqJC5C18qWs6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cMU86__VcZ0qvdFthibx-854" value="Debug" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;rounded=1;fillStyle=auto;strokeColor=#82b366;align=center;verticalAlign=middle;arcSize=50;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=12;fontColor=default;fillColor=#d5e8d4;labelBackgroundColor=none;" parent="cMU86__VcZ0qvdFthibx-129" vertex="1">
           <mxGeometry x="285" y="607" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9r6x0f_QtqJC5C18qWs6-5" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=catching;symbol=link;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="cMU86__VcZ0qvdFthibx-129">
+          <mxGeometry x="155" y="617" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cMU86__VcZ0qvdFthibx-130" value="DQ" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;swimlaneLine=1;labelBackgroundColor=none;strokeColor=#85b268;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" parent="cMU86__VcZ0qvdFthibx-118" vertex="1">
           <mxGeometry x="2520" width="400" height="967" as="geometry">
